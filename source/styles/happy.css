@@ -1,0 +1,41 @@
+
+.carousel {
+    align-items: center;
+}
+
+.container {
+    margin-top: 3em;
+}
+
+.br {
+    display: flex;
+}
+
+.btn {
+    
+    border: none;
+    color: rgb(214, 193, 255);
+    padding: 12px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    font-size: 20px;
+    
+    
+}
+
+.knopka {
+    background: linear-gradient(90deg, #5a2ba0 0%, #000000 100%);
+    color:chartreuse;
+    border: none;
+}
+
+.text {
+    font-size: 26px;
+}
+
+.text1 {
+    font-size: 18px;
+}
+
+
+
